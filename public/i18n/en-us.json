@@ -1,0 +1,81 @@
+{
+  "language": {
+    "nativeName": "English",
+    "label": "Language"
+  },
+  "app": {
+    "title": "Web3 Wallet Demo",
+    "loading": "loading...",
+    "notFound": "The page you visited does not exist"
+  },
+  "nav": {
+    "getWalletAddress": "Get Wallet Address",
+    "mint": "Mint Work Flow",
+    "lock": "Lock NFT Work Flow",
+    "lockRole": "Lock Role Work Flow",
+    "unlock": "Unlock Work Flow",
+    "pic": "Query Image"
+  },
+  "button": {
+    "close": "Close",
+    "callback": "Call Back To Game",
+    "startWallet": "Start For Get Wallet Address",
+    "startParams": "Start For Get Game Params",
+    "startMint": "Start Mint",
+    "startLockNFT": "Start Lock NFT",
+    "startLockRole": "Start Lock Role",
+    "startUnlock": "Start Unlock",
+    "workflowOk": "Work Flow OK",
+    "workflowClose": "Close Work Flow",
+    "workflowError": "Work Flow Error"
+  },
+  "field": {
+    "walletAddress": "Wallet Address",
+    "signature": "Signature",
+    "gameParams": "Game Params",
+    "unityParams": "Unity Params",
+    "width": "Width",
+    "height": "Height",
+    "error": "Error"
+  },
+  "steps": {
+    "getParams": "Get Params",
+    "connectWallet": "Connect Wallet",
+    "getSignatureCode": "Get Signature Code",
+    "getWalletSignature": "Get Wallet Signature",
+    "checkApproval": "Check Approval Status",
+    "approval": "Approval",
+    "lockRole": "Lock Role",
+    "lockNFT": "Lock NFT",
+    "mintNFT": "Mint NFT",
+    "unlockNFT": "Unlock NFT"
+  },
+  "message": {
+    "connectWalletError": "Connect Wallet Error!",
+    "unknownError": "Unknown Error!",
+    "signatureIncorrect": "Signature May Be Incorrect!",
+    "signaturePassed": "Signature Verification Passed!",
+    "userApprovalFailed": "User Approval Failed!",
+    "lockNFTSuccess": "Lock NFT Success!",
+    "lockNFTFailed": "Lock NFT Failed!",
+    "mintNFTSuccess": "Mint NFT Success!",
+    "mintNFTFailed": "Mint NFT Failed!",
+    "lockRoleSuccess": "Lock Role Success!",
+    "lockRoleFailed": "Lock Role Failed!",
+    "unlockNFTSuccess": "Unlock NFT Success!",
+    "unlockNFTFailed": "Unlock NFT Failed!"
+  },
+  "checkStatus": {
+    "401": "Session expired, please login again!",
+    "403": "Access denied!",
+    "404": "Request resource does not exist!",
+    "500": "Internal server error!",
+    "default": "Network is busy, please try again later!",
+    "errorCode": "Error code",
+    "err": "Error"
+  },
+  "lan": {
+    "colon": ": ",
+    "point": "."
+  }
+}

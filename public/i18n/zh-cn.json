@@ -1,0 +1,81 @@
+{
+  "language": {
+    "nativeName": "简体中文",
+    "label": "语言"
+  },
+  "app": {
+    "title": "Web3 钱包演示",
+    "loading": "加载中...",
+    "notFound": "啊哦，您访问的页面不存在"
+  },
+  "nav": {
+    "getWalletAddress": "获取钱包地址",
+    "mint": "Mint 流程",
+    "lock": "锁定 NFT 流程",
+    "lockRole": "锁定角色流程",
+    "unlock": "解锁流程",
+    "pic": "查询图片"
+  },
+  "button": {
+    "close": "关闭",
+    "callback": "回调到游戏",
+    "startWallet": "开始获取钱包地址",
+    "startParams": "开始获取游戏参数",
+    "startMint": "开始 Mint",
+    "startLockNFT": "开始锁定 NFT",
+    "startLockRole": "开始锁定角色",
+    "startUnlock": "开始解锁",
+    "workflowOk": "流程完成",
+    "workflowClose": "关闭流程",
+    "workflowError": "流程错误"
+  },
+  "field": {
+    "walletAddress": "钱包地址",
+    "signature": "签名",
+    "gameParams": "游戏参数",
+    "unityParams": "Unity 传入参数",
+    "width": "宽",
+    "height": "高",
+    "error": "错误"
+  },
+  "steps": {
+    "getParams": "获取参数",
+    "connectWallet": "连接钱包",
+    "getSignatureCode": "获取签名码",
+    "getWalletSignature": "获取钱包签名",
+    "checkApproval": "检查授权状态",
+    "approval": "授权",
+    "lockRole": "锁定角色",
+    "lockNFT": "锁定 NFT",
+    "mintNFT": "Mint NFT",
+    "unlockNFT": "解锁 NFT"
+  },
+  "message": {
+    "connectWalletError": "连接钱包失败！",
+    "unknownError": "未知错误！",
+    "signatureIncorrect": "签名可能不正确！",
+    "signaturePassed": "签名验证通过！",
+    "userApprovalFailed": "用户授权失败！",
+    "lockNFTSuccess": "锁定 NFT 成功！",
+    "lockNFTFailed": "锁定 NFT 失败！",
+    "mintNFTSuccess": "Mint NFT 成功！",
+    "mintNFTFailed": "Mint NFT 失败！",
+    "lockRoleSuccess": "锁定角色成功！",
+    "lockRoleFailed": "锁定角色失败！",
+    "unlockNFTSuccess": "解锁 NFT 成功！",
+    "unlockNFTFailed": "解锁 NFT 失败！"
+  },
+  "checkStatus": {
+    "401": "登录已过期，请重新登录！",
+    "403": "拒绝访问！",
+    "404": "请求资源不存在！",
+    "500": "服务器内部错误！",
+    "default": "网络繁忙，请稍后再试！",
+    "errorCode": "错误代码",
+    "err": "错误"
+  },
+  "lan": {
+    "colon": "：",
+    "point": "。"
+  }
+}

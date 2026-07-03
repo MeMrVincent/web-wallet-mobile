@@ -1,0 +1,81 @@
+{
+  "language": {
+    "nativeName": "日本語",
+    "label": "言語"
+  },
+  "app": {
+    "title": "Web3ウォレットデモ",
+    "loading": "読み込み中...",
+    "notFound": "ページが見つかりません"
+  },
+  "nav": {
+    "getWalletAddress": "ウォレットアドレス取得",
+    "mint": "Mintフロー",
+    "lock": "NFTロックフロー",
+    "lockRole": "ロールロックフロー",
+    "unlock": "アンロックフロー",
+    "pic": "画像を検索"
+  },
+  "button": {
+    "close": "閉じる",
+    "callback": "ゲームへコールバック",
+    "startWallet": "ウォレットアドレス取得を開始",
+    "startParams": "ゲームパラメータ取得を開始",
+    "startMint": "Mintを開始",
+    "startLockNFT": "NFTロックを開始",
+    "startLockRole": "ロールロックを開始",
+    "startUnlock": "アンロックを開始",
+    "workflowOk": "フロー完了",
+    "workflowClose": "フローを閉じる",
+    "workflowError": "フローエラー"
+  },
+  "field": {
+    "walletAddress": "ウォレットアドレス",
+    "signature": "署名",
+    "gameParams": "ゲームパラメータ",
+    "unityParams": "Unityから渡されたパラメータ",
+    "width": "幅",
+    "height": "高さ",
+    "error": "エラー"
+  },
+  "steps": {
+    "getParams": "パラメータ取得",
+    "connectWallet": "ウォレット接続",
+    "getSignatureCode": "署名コード取得",
+    "getWalletSignature": "ウォレット署名取得",
+    "checkApproval": "承認状態確認",
+    "approval": "承認",
+    "lockRole": "ロールロック",
+    "lockNFT": "NFTロック",
+    "mintNFT": "NFT Mint",
+    "unlockNFT": "NFTアンロック"
+  },
+  "message": {
+    "connectWalletError": "ウォレット接続に失敗しました！",
+    "unknownError": "不明なエラーです！",
+    "signatureIncorrect": "署名が正しくない可能性があります！",
+    "signaturePassed": "署名検証に成功しました！",
+    "userApprovalFailed": "ユーザー承認に失敗しました！",
+    "lockNFTSuccess": "NFTロックに成功しました！",
+    "lockNFTFailed": "NFTロックに失敗しました！",
+    "mintNFTSuccess": "NFT Mintに成功しました！",
+    "mintNFTFailed": "NFT Mintに失敗しました！",
+    "lockRoleSuccess": "ロールロックに成功しました！",
+    "lockRoleFailed": "ロールロックに失敗しました！",
+    "unlockNFTSuccess": "NFTアンロックに成功しました！",
+    "unlockNFTFailed": "NFTアンロックに失敗しました！"
+  },
+  "checkStatus": {
+    "401": "セッションの有効期限が切れました。もう一度ログインしてください！",
+    "403": "アクセスが拒否されました！",
+    "404": "リクエストされたリソースが存在しません！",
+    "500": "サーバー内部エラーが発生しました！",
+    "default": "回線が混雑しています。後でもう一度お試しください！",
+    "errorCode": "エラーコード",
+    "err": "エラー"
+  },
+  "lan": {
+    "colon": "：",
+    "point": "。"
+  }
+}
